@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: edlubemu21/python-app
+  repository: edlubemu21/problemsk8s
   pullPolicy: IfNotPresent
-  tag: v1
+  tag: demo
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""

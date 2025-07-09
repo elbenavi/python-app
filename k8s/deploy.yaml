@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: edlubemu21/python-app:v1
+        image: edlubemu21/problemsk8s:demo
         ports:
         - containerPort: 5000
