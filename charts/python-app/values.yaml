@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: edlubemu21/python-app:v1
+  repository: edlubemu21/python-app
   pullPolicy: IfNotPresent
-  tag: ed7159
+  tag: v1
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
